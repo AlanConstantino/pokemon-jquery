@@ -1,0 +1,13 @@
+.grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin-left: 15%;
+    margin-right: 15%;
+    gap: 45px 60px;
+    place-items: center;
+    justify-content: center;
+}
+
+h1 {
+    text-align: center;
+}
