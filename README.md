@@ -1,2 +1,2 @@
 # pokemon-jquery
-A website that uses jQuery and displays the original 151 Pokemon.
+A simple website that uses jQuery and displays the original 151 Pokemon.
